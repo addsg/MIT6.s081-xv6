@@ -12,9 +12,7 @@ main(int argc, char const *argv[])
 	}
 	int time = atoi(argv[1]);
 	sleep(time);
-	printf("hello");
-	printf("world");
-	exit(0);
 
+	exit(0);
 
 }
